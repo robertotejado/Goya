@@ -1,0 +1,294 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    
+    <!-- <link href='http://fonts.googleapis.com/css?family=Dancing+Script:700' rel='stylesheet' type='text/css'>-->
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/Content/css/estilo.css">
+    <meta charset="UTF-8" />
+    <title></title>
+    
+    <script src="~/Content/js/jquery.js"></script>
+    <script src="~/Content/js/bootstrap.min.js"></script>
+    <script src="~/Content/js/funciones.js"></script>
+    <script src="~/Content/js/añade.js"></script>
+   
+    <script src="~/Content/js/jquery.corner.js"></script>
+
+    <script src="~/Content/js/jquery-ui.min.js"></script>
+    <link rel="stylesheet" href="~/Content/js/jquery-ui.css">
+
+    <!-- keyboard widget css & script (required) -->
+    <link href="~/Content/js/keyboard.css" rel="stylesheet">
+    <script src="~/Content/js/jquery.keyboard.js"></script>
+
+    <!-- keyboard extensions (optional)-->
+    <script src="~/Content/js/jquery.mousewheel.js"></script>
+    <script src="~/Content/js/jquery.keyboard.extension-typing.js"></script>
+    <script src="~/Content/js/jquery.keyboard.extension-autocomplete.js"></script>
+
+   
+    <script src="~/Content/js/Popup.js"></script>
+</head>
+<body>
+    <div id="contenedor">
+        <aside id="categorias">
+            <!-- <div id="logo">
+            <img class="imgfoto" src="~/Content/img/logo1.png" alt="logo">
+            </div> -->
+            <div id="list" class="listaCategorias">
+                <ul class="list-unstyled listacat"></ul>
+        </aside>
+        <section id="solapas">
+            <div class="col-lg-12">
+                <ul class="nav nav-tabs">
+                    <li class="active let tam"><a href="#opcion1" data-toggle="tab">Ventas</a></li>
+                    <li><a class="let tam" href="#opcion2" data-toggle="tab">Pedidos</a></li>
+                    <li><a class="let tam" href="#opcion3" data-toggle="tab">Arqueo</a></li>
+                    <li><a class="let tam" href="#opcion4" data-toggle="tab">Consulta</a></li>
+                    <li><a class="let tam" href="#opcion5" data-toggle="tab">Albaranes</a></li>
+                    <li><a class="let tam" href="#opcion6" data-toggle="tab">Documentos</a></li>
+                    <li><a class="let tam" href="#opcion7" data-toggle="tab">Pastas</a></li>
+                </ul>
+                <div class="tab-content">
+                    <div class="tab-pane active" id="opcion1">
+                        <section id="solapa1" class="contenidos">
+                            <div class="thumbnail">
+                                <img class="imgfoto" src="~/Content/img/Berlinas.png" alt="imagen">
+                                <h3 class="let tops">Berlinas rellenas</h3>
+                                <h3 class="let tick">1.25 €</h3>
+                            </div>
+                            <!-- marco -->
+                            <div class="thumbnail">
+                                <img class="imgfoto" src="~/Content/img/berlinaChoco_opt.png" alt="imagen">
+                                <h3 class="let tops">Berlinas</h3>
+                                <h3 class="let tick">0.00 €</h3>
+                            </div>
+                            <!-- marco -->
+                            <div class="thumbnail">
+                                <img class="imgfoto" src="~/Content/img/bizcocho.png" alt="imagen">
+                                <h3 class="let tops">Bizcocho</h3>
+                                <h3 class="let tick">10.00 €</h3>
+                            </div>
+                            <!-- marco -->
+                            <div class="thumbnail">
+                                <img class="imgfoto" src="~/Content/img/berlinaChoco_opt.png" alt="imagen">
+                                <h3 class="let tops">Berlinas chocolate</h3>
+                                <h3 class="let tick">0.00 €</h3>
+                            </div>
+                            <!-- marco -->
+                            <div class="thumbnail">
+                                <img class="imgfoto" src="~/Content/img/berlinaChoco_opt.png" alt="imagen">
+                                <h3 class="let tops">Berlinas chocolate</h3>
+                                <h3 class="let tick">0.00 €</h3>
+                            </div>
+                            <!-- marco -->
+                            <div class="thumbnail">
+                                <img class="imgfoto" src="~/Content/img/Berlinas.png" alt="imagen">
+                                <h3 class="let tops">Berlinas rellenas</h3>
+                                <h3 class="let tick">0.00 €</h3>
+                            </div>
+                            <!-- marco -->
+                            <div class="thumbnail">
+                                <img class="imgfoto" src="~/Content/img/berlinaChoco_opt.png" alt="imagen">
+                                <h3 class="let tops">Berlinas</h3>
+                                <h3 class="let tick">0.00 €</h3>
+                            </div>
+                            <!-- marco -->
+                            <div class="thumbnail">
+                                <img class="imgfoto" src="~/Content/img/berlinaChoco_opt.png" alt="imagen">
+                                <h3 class="let tops">Berlinas chocolate</h3>
+                                <h3 class="let tick">0.00 €</h3>
+                            </div>
+                            <!-- marco -->
+                            <div class="thumbnail">
+                                <img class="imgfoto" src="~/Content/img/berlinaChoco_opt.png" alt="imagen">
+                                <h3 class="let tops">Berlinas chocolate</h3>
+                                <h3 class="let tick">0.00 €</h3>
+                            </div>
+                            <!-- marco -->
+                            <div class="thumbnail">
+                                <img class="imgfoto" src="~/Content/img/noimg.png" alt="imagen">
+                                <h3 class="let tops">Berlinas chocolate</h3>
+                                <h3 class="let tick">0.00 €</h3>
+                            </div>
+                            <!-- marco -->
+                            <div class="thumbnail">
+                                <img class="imgfoto" src="~/Content/img/berlinaChoco_opt.png" alt="imagen">
+                                <h3 class="let tops">Berlinas chocolate</h3>
+                                <h3 class="let tick">0.00 €</h3>
+                            </div>
+                            <!-- marco -->
+                            <div class="thumbnail">
+                                <img class="imgfoto" src="~/Content/img/tabletaframbuesa.png" alt="imagen">
+                                <h3 class="let tops">Berlinas chocolate</h3>
+                                <h3 class="let tick">0.00 €</h3>
+                            </div>
+                            <!-- marco -->
+                            <div class="thumbnail">
+                                <img class="imgfoto" src="~/Content/img/berlinaChoco_opt.png" alt="imagen">
+                                <h3 class="let tops">Berlinas chocolate</h3>
+                                <h3 class="let tick">0.00 €</h3>
+                            </div>
+                            <!-- marco -->
+                            <div class="thumbnail">
+                                <img class="imgfoto" src="~/Content/img/berlinaChoco_opt.png" alt="imagen">
+                                <h3 class="let tops">Berlinas chocolate</h3>
+                                <h3 class="let tick">0.00 €</h3>
+                            </div>
+                            <!-- marco -->
+                            <div class="thumbnail">
+                                <img class="imgfoto" src="~/Content/img/tabletlimon.png" alt="imagen">
+                                <h3 class="let tops">Pastel franchipan trufa mezcla cocida-nata un poco mas largo</h3>
+                                <h3 class="let tick">0.00 €</h3>
+                            </div>
+                            <!-- marco -->
+                            <div class="thumbnail">
+                                <img class="imgfoto" src="~/Content/img/berlinaChoco_opt.png" alt="imagen">
+                                <h3 class="let tops">Berlinas chocolate</h3>
+                                <h3 class="let tick">0.00 €</h3>
+                            </div>
+                            <!-- marco -->
+                            <div class="thumbnail">
+                                <img class="imgfoto" src="~/Content/img/berlinaChoco_opt.png" alt="imagen">
+                                <h3 class="let tops">Berlinas chocolate</h3>
+                                <h3 class="let tick">0.00 €</h3>
+                            </div>
+                            <!-- marco -->
+                            <div class="thumbnail">
+                                <img class="imgfoto" src="~/Content/img/bombonesSanvalentin.png" alt="imagen">
+                                <h3 class="let tops">Berlinas chocolate</h3>
+                                <h3 class="let tick">0.00 €</h3>
+                            </div>
+                            <!-- marco -->
+                            <div class="thumbnail">
+                                <img class="imgfoto" src="~/Content/img/berlinaChoco_opt.png" alt="imagen">
+                                <h3 class="let tops">Berlinas chocolate</h3>
+                                <h3 class="let tick">0.00 €</h3>
+                            </div>
+                            <!-- marco -->
+                            <div class="thumbnail">
+                                <img class="imgfoto" src="~/Content/img/berlinaChoco_opt.png" alt="imagen">
+                                <h3 class="let tops">Berlinas chocolate</h3>
+                                <h3 class="let tick">0.00 €</h3>
+                            </div>
+                            <!-- marco -->
+                            <div class="thumbnail">
+                                <img class="imgfoto" src="~/Content/img/berlinaChoco_opt.png" alt="imagen">
+                                <h3 class="let tops">Berlinas chocolate</h3>
+                                <h3 class="let tick">0.00 €</h3>
+                            </div>
+                            <!-- marco -->
+                            <div class="thumbnail">
+                                <img class="imgfoto" src="~/Content/img/palmera.png" alt="imagen">
+                                <h3 class="let tops">Berlinas chocolate</h3>
+                                <h3 class="let tick">0.00 €</h3>
+                            </div>
+                            <!-- marco -->
+                            <div class="thumbnail">
+                                <img class="imgfoto" src="~/Content/img/berlinaChoco_opt.png" alt="imagen">
+                                <h3 class="let tops">Berlinas chocolate</h3>
+                                <h3 class="let tick">0.00 €</h3>
+                            </div>
+                            <!-- marco -->
+                            <div class="thumbnail">
+                                <img class="imgfoto" src="~/Content/img/palmChoc.png" alt="imagen">
+                                <h3 class="let tops">Berlinas chocolate</h3>
+                                <h3 class="let tick">0.00 €</h3>
+                            </div>
+                            <!-- marco -->
+                            <div class="thumbnail">
+                                <img class="imgfoto" src="~/Content/img/berlinaChoco_opt.png" alt="imagen">
+                                <h3 class="let tops">Berlinas chocolate</h3>
+                                <h3 class="let tick">0.00 €</h3>
+                            </div>
+                            <!-- marco -->
+                        </section>
+                        <ul class="pager">
+                            <li class="previous disabled"><a id="btRetroceso" href="#" onclick="retroceso()">&larr; Anterior</a></li>
+                            <li class="next"><a id="btAvance" href="#" onclick="avance()">Siguiente &rarr;</a></li>
+                        </ul><!-- paginacion -->
+                    </div><!-- solapa -->
+                    <div class="tab-pane" id="opcion2">
+                        <section class="contenidos"></section>
+                    </div><!-- solapa -->
+                    <div class="tab-pane" id="opcion3">
+                        <section class="contenidos"></section>
+                    </div><!-- solapa -->
+                    <div class="tab-pane" id="opcion4">
+                        <section class="contenidos"></section>
+                    </div><!-- solapa -->
+                    <div class="tab-pane" id="opcion5">
+                        <section class="contenidos"></section>
+                    </div><!-- solapa -->
+                    <div class="tab-pane" id="opcion6">
+                        <section class="contenidos"></section>
+                    </div><!-- solapa -->
+                    <div class="tab-pane" id="opcion7">
+                        <section class="contenidos"></section>
+                    </div><!-- solapa -->
+                </div><!-- tab contenido -->
+            </div><!-- pestañas -->
+        </section><!-- section principal solapas-->
+        <aside id="carrito">
+            <div class="productosCarro">
+                <h3 class="let tcenter">Productos Ticket</h3>
+                <table class="table">
+                    <tbody>
+                     
+                        <tr class="tuplatotal">
+                            <td class="let tops">TOTAL</td>
+                            <td class="let tick PRECIOTOTAL">0.00</td>
+                            <td class="let">€</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <button type="button" class="cc let maraut"><span class="colorspan">Validar Venta </span><span class="glyphicon glyphicon-shopping-cart"></span></button>
+            </div><!--categorias -->
+        </aside>
+    </div><!-- contenedor -->
+    <footer>
+        <div id="element_to_pop_up">
+            <div id="carrito" style="width:770px">
+                <p> Carrito de la compra </p>
+
+                <table border="0" style="border-collapse: separate;border-spacing: 10px 5px;" width="760px">
+                    <tr>
+                        <td><b>Imagen</b></td>
+                        <td><b>Producto</b></td>
+                        <td><b>Precio</b></td>
+                        <td><b>Cantidad</b> </td>
+                        <td><b>TOTAL:</b></td>
+                    </tr>
+                    <tr>
+                        <td class="imagen"> </td>
+                        <td class="nombre"> </td>
+                        <td class="precio"></td>
+                        <td> <input type="text" id="cantidad" class="cantidad" placeholder="Introduzca cantidad" /></td>
+                        <td class="total"><b>suma</b></td>
+                    </tr>
+                    <tr>
+                        <td> </td>
+                        <td> </td>
+                        <td> </td>
+                        <td></td>
+                        <td></td>
+
+                    </tr>
+                </table>
+            </div>
+            <div class="clearfix"></div>
+
+        </div>
+
+    </footer>
+  
+    
+
+</body>
+</html>

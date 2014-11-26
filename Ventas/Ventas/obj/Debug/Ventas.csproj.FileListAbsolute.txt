@@ -1,0 +1,72 @@
+C:\Users\ROBERT\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\Ventas.dll.config
+C:\Users\ROBERT\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\Ventas.dll
+C:\Users\ROBERT\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\Ventas.pdb
+C:\Users\ROBERT\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\Antlr3.Runtime.dll
+C:\Users\ROBERT\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\EntityFramework.dll
+C:\Users\ROBERT\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ROBERT\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\ROBERT\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\Newtonsoft.Json.dll
+C:\Users\ROBERT\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Net.Http.dll
+C:\Users\ROBERT\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Net.Http.Formatting.dll
+C:\Users\ROBERT\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Net.Http.WebRequest.dll
+C:\Users\ROBERT\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Web.Http.dll
+C:\Users\ROBERT\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Web.Http.WebHost.dll
+C:\Users\ROBERT\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Web.Mvc.dll
+C:\Users\ROBERT\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Web.Optimization.dll
+C:\Users\ROBERT\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Web.Providers.dll
+C:\Users\ROBERT\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Web.Razor.dll
+C:\Users\ROBERT\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ROBERT\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Web.WebPages.dll
+C:\Users\ROBERT\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Web.WebPages.Razor.dll
+C:\Users\ROBERT\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\WebGrease.dll
+C:\Users\ROBERT\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\EntityFramework.xml
+C:\Users\ROBERT\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\Newtonsoft.Json.xml
+C:\Users\ROBERT\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Net.Http.xml
+C:\Users\ROBERT\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Net.Http.Formatting.xml
+C:\Users\ROBERT\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Net.Http.WebRequest.xml
+C:\Users\ROBERT\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Web.Http.xml
+C:\Users\ROBERT\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Web.Http.WebHost.xml
+C:\Users\ROBERT\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Web.Mvc.xml
+C:\Users\ROBERT\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Web.Razor.xml
+C:\Users\ROBERT\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Web.WebPages.xml
+C:\Users\ROBERT\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ROBERT\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Web.WebPages.Razor.xml
+C:\Users\ROBERT\Documents\Visual Studio 2013\Projects\Ventas\Ventas\obj\Debug\Ventas.csprojResolveAssemblyReference.cache
+C:\Users\ROBERT\Documents\Visual Studio 2013\Projects\Ventas\Ventas\obj\Debug\Ventas.dll
+C:\Users\ROBERT\Documents\Visual Studio 2013\Projects\Ventas\Ventas\obj\Debug\Ventas.pdb
+C:\Users\Diseño Web\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\Ventas.dll.config
+C:\Users\Diseño Web\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\Ventas.dll
+C:\Users\Diseño Web\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\Ventas.pdb
+C:\Users\Diseño Web\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\Antlr3.Runtime.dll
+C:\Users\Diseño Web\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\EntityFramework.dll
+C:\Users\Diseño Web\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Diseño Web\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Diseño Web\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\Newtonsoft.Json.dll
+C:\Users\Diseño Web\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Net.Http.dll
+C:\Users\Diseño Web\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Net.Http.Formatting.dll
+C:\Users\Diseño Web\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Net.Http.WebRequest.dll
+C:\Users\Diseño Web\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Web.Http.dll
+C:\Users\Diseño Web\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Web.Http.WebHost.dll
+C:\Users\Diseño Web\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Web.Mvc.dll
+C:\Users\Diseño Web\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Web.Optimization.dll
+C:\Users\Diseño Web\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Web.Providers.dll
+C:\Users\Diseño Web\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Web.Razor.dll
+C:\Users\Diseño Web\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Diseño Web\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Web.WebPages.dll
+C:\Users\Diseño Web\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Web.WebPages.Razor.dll
+C:\Users\Diseño Web\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\WebGrease.dll
+C:\Users\Diseño Web\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\EntityFramework.xml
+C:\Users\Diseño Web\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\Newtonsoft.Json.xml
+C:\Users\Diseño Web\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Net.Http.xml
+C:\Users\Diseño Web\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Net.Http.Formatting.xml
+C:\Users\Diseño Web\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Net.Http.WebRequest.xml
+C:\Users\Diseño Web\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Web.Http.xml
+C:\Users\Diseño Web\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Web.Http.WebHost.xml
+C:\Users\Diseño Web\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Web.Mvc.xml
+C:\Users\Diseño Web\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Web.Razor.xml
+C:\Users\Diseño Web\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Web.WebPages.xml
+C:\Users\Diseño Web\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Diseño Web\Documents\Visual Studio 2013\Projects\Ventas\Ventas\bin\System.Web.WebPages.Razor.xml
+C:\Users\Diseño Web\Documents\Visual Studio 2013\Projects\Ventas\Ventas\obj\Debug\Ventas.csprojResolveAssemblyReference.cache
+C:\Users\Diseño Web\Documents\Visual Studio 2013\Projects\Ventas\Ventas\obj\Debug\Ventas.dll
+C:\Users\Diseño Web\Documents\Visual Studio 2013\Projects\Ventas\Ventas\obj\Debug\Ventas.pdb
